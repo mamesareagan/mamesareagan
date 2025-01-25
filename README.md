@@ -35,11 +35,11 @@
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>typescript%2Ccpp%2Cjavascript%2Cjava%2Cpostgres%2Chono%2Cdrizzle%2Cmysql%2Cphp%2Chtml%2Ccss%2Csass%2Creact&
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Cpython%2Cjavascript%2Cdjango%2Cflask&theme=dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=c,python,javascript,django,flask&theme=light" />
-      <img src="https://skillicons.dev/icons?i=c,python,javascript,django,flask&theme=light" alt="skills" />
-    </picture>
+    <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Cjavascript%2Cpython%2Cpostgres%2Cmysql%2Cdjango%2Chtml%2Ccss%2Csass%2Cflask&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=typescript%2Ccpp%2Cjavascript%2Cjava%2Cpostgres%2Chono%2Cdrizzle%2Cmysql%2Cphp%2Chtml%2Ccss%2Csass%2Creact&theme=light" />
+          <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=c%2Cjavascript%2Cpython%2Cpostgres%2Cmysql%2Cdjango%2Chtml%2Ccss%2Csass%2Cflask&theme=light" alt="skills" />
+      </picture>
   </a>
 </p>
 
@@ -48,11 +48,8 @@
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-
-  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" /> 
-    
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </div>
 
