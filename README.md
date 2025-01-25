@@ -17,9 +17,9 @@
 </h1>
 <br />
 <p align="center">
-  Hi, I'm Reagan, a software Developer/Coder 💻, student 👨‍💻 & gamer 🦸‍♂️ from Kenya.
+  Hi, I'm Reagan, a software Developer/Coder 💻, student 👨‍💻 & gamer 🦸‍♂️ .
   <br />
-  🎓 Currently a student.
+  🎓 Ready to work with all ##big minds## to upskill my self.
   <br />
   💻 I love to learn new technologies and frameworks. I'm particularly interested in backend development with Python (Django and Flask), and also enjoy working with JavaScript for frontend and C for system-level programming.
   <br />
@@ -35,8 +35,8 @@
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,python,javascript,django,flask&theme=dark" />
+    <picture>typescript%2Ccpp%2Cjavascript%2Cjava%2Cpostgres%2Chono%2Cdrizzle%2Cmysql%2Cphp%2Chtml%2Ccss%2Csass%2Creact&
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Cpython%2Cjavascript%2Cdjango%2Cflask&theme=dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=c,python,javascript,django,flask&theme=light" />
       <img src="https://skillicons.dev/icons?i=c,python,javascript,django,flask&theme=light" alt="skills" />
     </picture>
@@ -47,9 +47,12 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mamesareagan/mamesareagan/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/mamesareagan/mamesareagan/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/mamesareagan/mamesareagan/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+
+  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" /> 
+    
   </picture>
 </div>
 
